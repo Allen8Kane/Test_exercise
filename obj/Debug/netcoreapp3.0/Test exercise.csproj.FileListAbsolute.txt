@@ -1,0 +1,11 @@
+/home/allen8kane/Документы/Programming/c#/Test exercise/bin/Debug/netcoreapp3.0/Test exercise
+/home/allen8kane/Документы/Programming/c#/Test exercise/bin/Debug/netcoreapp3.0/Test exercise.deps.json
+/home/allen8kane/Документы/Programming/c#/Test exercise/bin/Debug/netcoreapp3.0/Test exercise.runtimeconfig.json
+/home/allen8kane/Документы/Programming/c#/Test exercise/bin/Debug/netcoreapp3.0/Test exercise.runtimeconfig.dev.json
+/home/allen8kane/Документы/Programming/c#/Test exercise/bin/Debug/netcoreapp3.0/Test exercise.dll
+/home/allen8kane/Документы/Programming/c#/Test exercise/bin/Debug/netcoreapp3.0/Test exercise.pdb
+/home/allen8kane/Документы/Programming/c#/Test exercise/obj/Debug/netcoreapp3.0/Test exercise.csprojAssemblyReference.cache
+/home/allen8kane/Документы/Programming/c#/Test exercise/obj/Debug/netcoreapp3.0/Test exercise.AssemblyInfoInputs.cache
+/home/allen8kane/Документы/Programming/c#/Test exercise/obj/Debug/netcoreapp3.0/Test exercise.AssemblyInfo.cs
+/home/allen8kane/Документы/Programming/c#/Test exercise/obj/Debug/netcoreapp3.0/Test exercise.dll
+/home/allen8kane/Документы/Programming/c#/Test exercise/obj/Debug/netcoreapp3.0/Test exercise.pdb
